@@ -89,7 +89,7 @@ class Article1 extends Component {
             <div style = {this.intro} >
                 <img src={this.state.imageURL2} style = {this.me} alt="image"></img>
                 <p style = {this.name}>Saad</p>
-                <p style = {this.para}>👋 Hey there! As you might have known by now, my name is Muhammad Saad. I am a college
+                <p style = {this.para}>👋 Hey there!! As you might have known by now, my name is Muhammad Saad. I am a college
                     freshman who is following his passion of becoming an acknowledged Computer Scientist. Two things you should know
                     about me before reading any further. It is my 2nd article so don’t expect much 🤷‍♂️.</p>
             </div>
@@ -101,3 +101,6 @@ class Article1 extends Component {
 }
 
 export default Article1;
+
+
+export default Saad;
